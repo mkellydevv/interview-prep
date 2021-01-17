@@ -2,7 +2,7 @@
 // #easy #matrix #array
 // Time    : O(m*n)
 // Space   : O(min(m,n))
-// Runtime : 68ms, beats 100%
+// Runtime : 68ms,   beats 100%
 // Memory  : 41.6mb, beats 26.86%
 // The algorithm iterates over the shorter of rows or columns, storing the mins or maxes respectively in
 // an array.  It then iterates over columns or rows, looking for maxes or mins, and compares it to the
