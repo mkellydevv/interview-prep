@@ -1,9 +1,14 @@
 # Leetcode Problems
 
 ### Medium
-54. Spiral Matrix                   [#matrix #array #aa]
-189. Rotate Array                   [#array #aa]
+Medium | Tags
+--- | ---
+54. Spiral Matrix | #matrix #array #aa
+189. Rotate Array | #array #aa
 
 ### Easy
-7. Reverse Integer                  [#math]
-1380. Lucky Numbers in a Matrix     [#matrix #array #aa]
+Easy | Tags
+--- | ---
+7. Reverse Integer | #math]
+204. Count Primes | #math #array #aa
+1380. Lucky Numbers in a Matrix | #matrix #array #aa
