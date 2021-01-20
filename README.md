@@ -4,6 +4,7 @@
 | Problem | Tags |
 | --- | --- |
 | 54. Spiral Matrix | #matrix #array #aa |
+| 74. Search a 2D Matrix | #matrix #array #binarysearch #aa |
 | 189. Rotate Array | #array #aa |
 
 ### Easy
