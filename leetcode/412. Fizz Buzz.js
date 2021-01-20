@@ -1,7 +1,7 @@
 // 412. Fizz Buzz
 // #easy #aa
 // Time    : O(n)
-// Space   : O(1)
+// Space   : O(n)
 // Runtime : 80ms,   beats 90.21%
 // Memory  : 40.9mb, beats 24.02%
 // It's fizzbuzz.
