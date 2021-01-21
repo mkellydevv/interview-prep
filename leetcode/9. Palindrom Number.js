@@ -5,7 +5,7 @@
 // Runtime : 204ms,  beats 90.67%
 // Memory  : 49.1mb, beats 27.01%
 // The mathematical approach compares the first digit to the last digit moving
-// inwards.
+// inwards. Does not convert to a string.
 
 // Mathematical approach
 function isPalindrome(num) {
