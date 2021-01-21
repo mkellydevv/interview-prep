@@ -3,23 +3,23 @@
 ### Medium
 | Problem | Tags |
 | --- | --- |
-| 54. Spiral Matrix | #matrix #array #aa |
-| 74. Search a 2D Matrix | #matrix #array #binarysearch #aa |
-| 189. Rotate Array | #array #aa |
+| 54. Spiral Matrix | #aa #array #matrix |
+| 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
+| 189. Rotate Array | #aa #array |
 
 ### Easy
 | Problem | Tags |
 | --- | --- |
-| 1. Two Sum | #array #hashmap #aa |
+| 1. Two Sum | #aa #array #hashmap |
 | 7. Reverse Integer | #math |
 | 9. Palindrome Number | #math #string |
-| 118. Pascal's Triangle | #array #aa |
+| 118. Pascal's Triangle | #aa #array  |
 | 141. Linked List Cycle | #linkedlist #pointers |
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
-| 204. Count Primes | #math #array #aa |
-| 349. Intersection of Two Arrays | #set #array #binarysearch #sort #aa |
+| 204. Count Primes | #aa #array #math |
+| 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
 | 412. Fizz Buzz | #aa |
-| 1380. Lucky Numbers in a Matrix | #matrix #array #aa |
+| 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
 
 # Notes
 
