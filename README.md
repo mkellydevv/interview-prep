@@ -3,6 +3,7 @@
 ### Medium
 | Problem | Tags |
 | --- | --- |
+| 15. 3Sum | #medium #array #hashmap #pointers #set #sort |
 | 54. Spiral Matrix | #aa #array #matrix |
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
 | 189. Rotate Array | #aa #array |
