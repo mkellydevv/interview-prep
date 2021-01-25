@@ -8,12 +8,12 @@
 // complements of the target.
 
 function twoSum(nums, tar) {
-    let map = {};
+    let map = new Map();
 
     for (let i = 0; i < nums.length; i++) {
-        if (map[nums[i]] !== undefined)
-            return [map[nums[i]], i];
-        map[tar - nums[i]] = i;
+        if (map.get(nums[i]) !== undefined)
+            return [map.get(nums[i]),i];
+        map.set(tar - nums[i], i );
     }
 
     return false;
