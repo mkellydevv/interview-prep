@@ -5,11 +5,7 @@ function trimBST(root, low, high) {
     let ptr = root;
     let par = root;
     while (ptr) {
-        if (ptr.val === low) {
-            ptr.left = null;
-            break;
-        }
-        else if (ptr.val > low) {
+        if (ptr.val > low) {
             par = ptr;
             ptr = ptr.left;
         }
@@ -23,17 +19,17 @@ function trimBST(root, low, high) {
                 ptr = ptr.right;
             }
         }
+        else if (ptr.val === low) {
+            ptr.left = null;
+            break;
+        }
     }
 
     // Trim high
     par = root;
     ptr = root;
     while (ptr) {
-        if (ptr.val === high) {
-            ptr.right = null;
-            break;
-        }
-        else if (ptr.val < high) {
+        if (ptr.val < high) {
             par = ptr;
             ptr = ptr.right;
         }
@@ -46,6 +42,10 @@ function trimBST(root, low, high) {
                 par.right = ptr.left;
                 ptr = ptr.left;
             }
+        }
+        else if (ptr.val === high) {
+            ptr.right = null;
+            break;
         }
     }
 
