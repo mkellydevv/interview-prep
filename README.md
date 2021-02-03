@@ -21,14 +21,15 @@
 | 118. Pascal's Triangle | #aa #array  |
 | 141. Linked List Cycle | #linkedlist #pointers |
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
+| 191. Number of 1 Bits | #bitmanip |
 | 204. Count Primes | #aa #array #math |
 | 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
 | 412. Fizz Buzz | #aa |
 | 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
 
-### February 2021
-1. | 669. Trim a Binary Search Tree |
-2. | 669. Trim a Binary Search Tree |
+### February LeetCoding Challenge 2021
+1: 191. Number of 1 Bits
+2: 669. Trim a Binary Search Tree
 
 # Notes
 
