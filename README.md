@@ -10,6 +10,7 @@
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
 | 189. Rotate Array | #aa #array |
 | 560. Subarray Sum Equals K | #array #hashmap |
+| 669. Trim a Binary Search Tree | #bst #tree |
 
 ### Easy
 | Problem | Tags |
@@ -24,6 +25,10 @@
 | 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
 | 412. Fizz Buzz | #aa |
 | 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
+
+### February 2021
+1. | 669. Trim a Binary Search Tree |
+2. | 669. Trim a Binary Search Tree |
 
 # Notes
 
