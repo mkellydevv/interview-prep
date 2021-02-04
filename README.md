@@ -32,6 +32,7 @@
 | --- | --- |
 | 1. | 191. Number of 1 Bits |
 | 2. | 669. Trim a Binary Search Tree |
+| 3. | 141. Linked List Cycle |
 
 
 # Notes

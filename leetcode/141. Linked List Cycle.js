@@ -10,13 +10,10 @@
 
 // Floyd's Cycle Finding Algorithm
 function hasCycle(head) {
-    if (head === null || head.next === null)
-        return false;
-
     let walker = head;
-    let runner = head.next;
+    let runner = head;
 
-    while (runner.next !== null && runner.next.next !== null) {
+    while (runner !== null && runner.next !== null) {
         walker = walker.next;
         runner = runner.next.next;
         if (walker === runner)
