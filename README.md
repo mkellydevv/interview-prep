@@ -7,6 +7,7 @@
 | 15. 3Sum | #array #hashmap #pointers #set #sort |
 | 46. Permutations | #aa #recursion |
 | 54. Spiral Matrix | #aa #array #matrix |
+| 71. Simplify Path | #stack |
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
 | 189. Rotate Array | #aa #array |
 | 560. Subarray Sum Equals K | #array #hashmap |
@@ -35,6 +36,7 @@
 | 2. | 669. Trim a Binary Search Tree |
 | 3. | 141. Linked List Cycle |
 | 4. | 594. Longest Harmonious Subsequence |
+| 5. | 71. Simplify Path |
 
 
 # Notes
