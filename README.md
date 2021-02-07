@@ -10,7 +10,7 @@
 | 71. Simplify Path | #stack |
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
 | 189. Rotate Array | #aa #array |
-| 199. Binary Tree Right Side View | #dfs #tree |
+| 199. Binary Tree Right Side View | #dfs #stack #tree |
 | 322. Coin Change | #aa #dp #memo #tab |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
@@ -29,6 +29,7 @@
 | 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
 | 412. Fizz Buzz | #aa |
 | 594. Longest Harmonious Subsequence | #hashmap |
+| 821. Shortest Distance to a Character | #string |
 | 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
 ---
 ### February LeetCoding Challenge 2021
@@ -40,6 +41,7 @@
 | 4. | 594. Longest Harmonious Subsequence |
 | 5. | 71. Simplify Path |
 | 6. | 199. Binary Tree Right Side View |
+| 7. | 821. Shortest Distance to a Character |
 
 
 # Notes
