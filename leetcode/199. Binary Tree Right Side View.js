@@ -2,7 +2,7 @@
 // #medium #dfs #tree
 // Time    : O(n)
 // Space   : O(n)
-// Runtime : 84ms,   beats 77.84%
+// Runtime : 76ms,   beats 95.64%
 // Memory  : 39.7mb, beats 96.15%
 // The algorithm uses a pre-order traversal of a binary tree and pushes
 // value of the current node into the return array at the index of the
