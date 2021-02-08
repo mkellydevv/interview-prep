@@ -4,7 +4,8 @@
 // Space   : O(n)
 // Runtime : 100ms,  beats 97.52%
 // Memory  : 43.8mb, beats 69.80%
-// The algorithm is a classic quick sort solution.
+// The algorithm is a classic quick sort solution. Ill upload merge sort
+// tomorrow.
 
 function sortArray(nums) {
     quickSort(nums, 0, nums.length - 1);
