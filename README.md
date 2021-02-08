@@ -14,6 +14,7 @@
 | 322. Coin Change | #aa #dp #memo #tab |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
+| 912. Sort an Array | #sort |
 ---
 ### Easy
 | Problem | Tags |
