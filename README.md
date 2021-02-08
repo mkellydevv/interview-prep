@@ -11,6 +11,7 @@
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
 | 189. Rotate Array | #aa #array |
 | 199. Binary Tree Right Side View | #dfs #stack #tree |
+| 284. Peeking Iterator | #design |
 | 322. Coin Change | #aa #dp #memo #tab |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
@@ -43,6 +44,7 @@
 | 5. | 71. Simplify Path |
 | 6. | 199. Binary Tree Right Side View |
 | 7. | 821. Shortest Distance to a Character |
+| 8. | 284. Peeking Iterator |
 
 
 # Notes
