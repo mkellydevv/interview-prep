@@ -9,6 +9,7 @@
 | 54. Spiral Matrix | #aa #array #matrix |
 | 71. Simplify Path | #stack |
 | 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
+| 138. Copy List with Random Pointer | #linkedlist |
 | 189. Rotate Array | #aa #array |
 | 199. Binary Tree Right Side View | #dfs #stack #tree |
 | 284. Peeking Iterator | #design |
@@ -47,6 +48,7 @@
 | 7. | 821. Shortest Distance to a Character |
 | 8. | 284. Peeking Iterator |
 | 9. | 538. Convert BST to Greater Tree |
+| 10. | 138. Copy List with Random Pointer |
 
 
 # Notes
