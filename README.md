@@ -13,6 +13,7 @@
 | 199. Binary Tree Right Side View | #dfs #stack #tree |
 | 284. Peeking Iterator | #design |
 | 322. Coin Change | #aa #dp #memo #tab |
+| 538. Convert BST to Greater Tree | #bst #stack |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
 | 912. Sort an Array | #sort |
@@ -45,6 +46,7 @@
 | 6. | 199. Binary Tree Right Side View |
 | 7. | 821. Shortest Distance to a Character |
 | 8. | 284. Peeking Iterator |
+| 9. | 538. Convert BST to Greater Tree |
 
 
 # Notes
