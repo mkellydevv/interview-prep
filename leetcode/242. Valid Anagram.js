@@ -19,10 +19,9 @@ function isAnagram(str1, str2) {
         arr[str2.charCodeAt(i) - 97] -= 1;
     }
 
-    for (let i = 0; i < 26; i++) {
-        if (arr[i])
-            return false;
-    }
+    let i = 0;
+    while (arr[i] === 0)
+        i++;
 
-    return true;
+    return i === 26;
 }
