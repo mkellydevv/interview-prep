@@ -30,6 +30,7 @@
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
 | 191. Number of 1 Bits | #bitmanip |
 | 204. Count Primes | #aa #array #math |
+| 242. Valid Anagram | #hashtable #string |
 | 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
 | 412. Fizz Buzz | #aa |
 | 594. Longest Harmonious Subsequence | #hashmap |
@@ -49,6 +50,7 @@
 | 8. | 284. Peeking Iterator |
 | 9. | 538. Convert BST to Greater Tree |
 | 10. | 138. Copy List with Random Pointer |
+| 11. | 242. Valid Anagram |
 
 
 # Notes
