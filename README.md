@@ -36,6 +36,7 @@
 | 412. Fizz Buzz | #aa |
 | 594. Longest Harmonious Subsequence | #hashmap |
 | 821. Shortest Distance to a Character | #string |
+| 1342. Number of Steps to Reduce a Number to Zero | #bitmanip |
 | 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
 ---
 ### February LeetCoding Challenge 2021
@@ -52,7 +53,7 @@
 | 9. | 538. Convert BST to Greater Tree |
 | 10. | 138. Copy List with Random Pointer |
 | 11. | 242. Valid Anagram |
-
+| 12. | 1342. Number of Steps to Reduce a Number to Zero |
 | 13. | 1091. Shortest Path in Binary Matrix |
 
 
