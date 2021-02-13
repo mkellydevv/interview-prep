@@ -18,6 +18,7 @@
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
 | 912. Sort an Array | #sort |
+| 1091. Shortest Path in Binary Matrix | #bfs #queue |
 ---
 ### Easy
 | Problem | Tags |
@@ -51,6 +52,8 @@
 | 9. | 538. Convert BST to Greater Tree |
 | 10. | 138. Copy List with Random Pointer |
 | 11. | 242. Valid Anagram |
+
+| 13. | 1091. Shortest Path in Binary Matrix |
 
 
 # Notes

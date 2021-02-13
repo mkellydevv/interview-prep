@@ -12,7 +12,7 @@ function isAnagram(str1, str2) {
     if (str1.length !== str2.length)
         return false;
 
-    let arr = new Array(26).fill(0);
+    const arr = new Array(26).fill(0);
 
     for (let i = 0; i < str1.length; i++) {
         arr[str1.charCodeAt(i) - 97] += 1;
