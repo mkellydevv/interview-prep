@@ -17,6 +17,7 @@
 | 538. Convert BST to Greater Tree | #bst #stack |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
+| 785. Is Graph Bipartite? | #bfs #graph #queue |
 | 912. Sort an Array | #sort |
 | 1091. Shortest Path in Binary Matrix | #bfs #queue |
 ---
@@ -55,6 +56,7 @@
 | 11. | 242. Valid Anagram |
 | 12. | 1342. Number of Steps to Reduce a Number to Zero |
 | 13. | 1091. Shortest Path in Binary Matrix |
+| 14. | 785. Is Graph Bipartite? |
 
 
 # Notes
