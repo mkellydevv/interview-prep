@@ -17,6 +17,7 @@
 | 538. Convert BST to Greater Tree | #bst #stack |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
+| 784. Letter Case Permutation | #bottomup |
 | 785. Is Graph Bipartite? | #bfs #graph #queue |
 | 912. Sort an Array | #sort |
 | 1091. Shortest Path in Binary Matrix | #bfs #queue |
@@ -59,7 +60,7 @@
 | 13. | 1091. Shortest Path in Binary Matrix |
 | 14. | 785. Is Graph Bipartite? |
 | 15. | 1337. The K Weakest Rows in a Matrix |
-
+| 16. | 784. Letter Case Permutation |
 
 # Notes
 
