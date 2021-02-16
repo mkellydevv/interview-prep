@@ -37,6 +37,7 @@
 | 412. Fizz Buzz | #aa |
 | 594. Longest Harmonious Subsequence | #hashmap |
 | 821. Shortest Distance to a Character | #string |
+| 1337. The K Weakest Rows in a Matrix | #array #sort |
 | 1342. Number of Steps to Reduce a Number to Zero | #bitmanip |
 | 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
 ---
@@ -57,6 +58,7 @@
 | 12. | 1342. Number of Steps to Reduce a Number to Zero |
 | 13. | 1091. Shortest Path in Binary Matrix |
 | 14. | 785. Is Graph Bipartite? |
+| 15. | 1337. The K Weakest Rows in a Matrix |
 
 
 # Notes
