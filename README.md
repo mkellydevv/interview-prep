@@ -3,7 +3,7 @@
 ### Medium
 | Problem | Tags |
 | --- | --- |
-| 11. Container With Most Water | #pointers |
+| [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/11.%20Container%20With%20Most%20Water.js) | #pointers |
 | 15. 3Sum | #array #hashmap #pointers #set #sort |
 | 46. Permutations | #aa #recursion |
 | 54. Spiral Matrix | #aa #array #matrix |
@@ -21,7 +21,7 @@
 | 784. Letter Case Permutation | #bottomup |
 | 785. Is Graph Bipartite? | #bfs #graph #queue |
 | 912. Sort an Array | #sort |
-| 1091. Shortest Path in Binary Matrix | #bfs #queue |
+| [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
 | 1249. Minimum Remove to Make Valid Parentheses | #stack |
 ---
 ### Easy
@@ -30,7 +30,7 @@
 | [1. Two Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/1.%20Two%20Sum.js) | #aa #array #hashmap |
 | 7. Reverse Integer | #math |
 | 9. Palindrome Number | #math #string |
-| 118. Pascal's Triangle | #aa #array  |
+| [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/118.%20Pascal's%20Triangle.js) | #aa #array  |
 | 141. Linked List Cycle | #linkedlist #pointers |
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
 | 191. Number of 1 Bits | #bitmanip |
@@ -63,7 +63,7 @@
 | 14. | 785. Is Graph Bipartite? |
 | 15. | 1337. The K Weakest Rows in a Matrix |
 | 16. | 784. Letter Case Permutation |
-| 17. | 11. Container With Most Water |
+| 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/11.%20Container%20With%20Most%20Water.js) |
 | 18. | 413. Arithmetic Slices |
 | 19. | 1249. Minimum Remove to Make Valid Parentheses |
 
@@ -79,5 +79,11 @@ function numDigits(num) {
 // Get ith digit from right in a number:
 function getNth(num, i) {
     return Math.floor((num / Math.pow(10, i - 1)) % 10);
+}
+
+// Triangle Number - Like factorial but with addition
+// triangle(5) => 15 (5 + 4 + 3 + 2 + 1)
+function triangle(num) {
+    return (num ** 2 + num) / 2;
 }
 ```
