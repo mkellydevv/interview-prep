@@ -14,6 +14,7 @@
 | 199. Binary Tree Right Side View | #dfs #stack #tree |
 | 284. Peeking Iterator | #design |
 | 322. Coin Change | #aa #dp #memo #tab |
+| 413. Arithmetic Slices | #math |
 | 538. Convert BST to Greater Tree | #bst #stack |
 | 560. Subarray Sum Equals K | #array #hashmap |
 | 669. Trim a Binary Search Tree | #bst #tree |
@@ -21,6 +22,7 @@
 | 785. Is Graph Bipartite? | #bfs #graph #queue |
 | 912. Sort an Array | #sort |
 | 1091. Shortest Path in Binary Matrix | #bfs #queue |
+| 1249. Minimum Remove to Make Valid Parentheses | #stack |
 ---
 ### Easy
 | Problem | Tags |
@@ -62,6 +64,8 @@
 | 15. | 1337. The K Weakest Rows in a Matrix |
 | 16. | 784. Letter Case Permutation |
 | 17. | 11. Container With Most Water |
+| 18. | 413. Arithmetic Slices |
+| 19. | 1249. Minimum Remove to Make Valid Parentheses |
 
 # Notes
 
