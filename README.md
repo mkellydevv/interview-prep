@@ -63,7 +63,7 @@
 | 14. | 785. Is Graph Bipartite? |
 | 15. | 1337. The K Weakest Rows in a Matrix |
 | 16. | 784. Letter Case Permutation |
-| 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/11.%20Container%20With%20Most%20Water.js) |
+| 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
 | 18. | 413. Arithmetic Slices |
 | 19. | 1249. Minimum Remove to Make Valid Parentheses |
 
