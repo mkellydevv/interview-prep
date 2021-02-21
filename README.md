@@ -28,46 +28,46 @@
 | Problem | Tags |
 | --- | --- |
 | [1. Two Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1.%20Two%20Sum.js) | #aa #array #hashmap |
-| 7. Reverse Integer | #math |
-| 9. Palindrome Number | #math #string |
-| 13. Roman to Integer | #map #set |
+| [7. Reverse Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/7.%20Reverse%20Integer.js) | #math |
+| [9. Palindrome Number](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/9.%20Palindrom%20Number.js) | #math #string |
+| [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) | #map #set |
 | [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/118.%20Pascal's%20Triangle.js) | #aa #array  |
-| 141. Linked List Cycle | #linkedlist #pointers |
-| 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
-| 191. Number of 1 Bits | #bitmanip |
-| 204. Count Primes | #aa #array #math |
-| 242. Valid Anagram | #hashtable #string |
-| 349. Intersection of Two Arrays | #aa #array #binarysearch #set #sort |
-| 412. Fizz Buzz | #aa |
-| 594. Longest Harmonious Subsequence | #hashmap |
-| 821. Shortest Distance to a Character | #string |
-| 1337. The K Weakest Rows in a Matrix | #array #sort |
-| 1342. Number of Steps to Reduce a Number to Zero | #bitmanip |
-| 1380. Lucky Numbers in a Matrix | #aa #array #matrix |
+| [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) | #linkedlist #pointers |
+| [167. Two Sum II - Input array is sorted](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | #array #binarysearch #pointers |
+| [191. Number of 1 Bits](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/191.%20Number%20of%201%20Bits.js) | #bitmanip |
+| [204. Count Primes](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/204.%20Count%20Primes.js) | #aa #array #math |
+| [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) | #hashtable #string |
+| [349. Intersection of Two Arrays](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/349.%20Intersection%20of%20Two%20Arrays.js) | #aa #array #binarysearch #set #sort |
+| [412. Fizz Buzz](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/412.%20Fizz%20Buzz.js) | #aa |
+| [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) | #hashmap |
+| [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) | #string |
+| [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | #array #sort |
+| [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | #bitmanip |
+| [1380. Lucky Numbers in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.js) | #aa #array #matrix |
 ---
 ### February LeetCoding Challenge 2021
 | # | Problem |
 | --- | --- |
-| 1. | 191. Number of 1 Bits |
+| 1. | [191. Number of 1 Bits](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/191.%20Number%20of%201%20Bits.js) |
 | 2. | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) |
-| 3. | 141. Linked List Cycle |
-| 4. | 594. Longest Harmonious Subsequence |
+| 3. | [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) |
+| 4. | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) |
 | 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) |
 | 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) |
-| 7. | 821. Shortest Distance to a Character |
-| 8. | 284. Peeking Iterator |
+| 7. | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) |
+| 8. | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) |
 | 9. | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) |
 | 10. | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) |
-| 11. | 242. Valid Anagram |
-| 12. | 1342. Number of Steps to Reduce a Number to Zero |
+| 11. | [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) |
+| 12. | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) |
 | 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) |
 | 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) |
-| 15. | 1337. The K Weakest Rows in a Matrix |
+| 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) |
 | 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
 | 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
 | 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
 | 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) |
-| 20. | 13. Roman to Integer |
+| 20. | [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) |
 
 # Notes
 
