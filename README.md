@@ -3,7 +3,7 @@
 ### Medium
 | Problem | Tags |
 | --- | --- |
-| [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/11.%20Container%20With%20Most%20Water.js) | #pointers |
+| [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) | #pointers |
 | 15. 3Sum | #array #hashmap #pointers #set #sort |
 | 46. Permutations | #aa #recursion |
 | 54. Spiral Matrix | #aa #array #matrix |
@@ -21,7 +21,7 @@
 | 784. Letter Case Permutation | #bottomup |
 | 785. Is Graph Bipartite? | #bfs #graph #queue |
 | 912. Sort an Array | #sort |
-| [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
+| [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
 | 1249. Minimum Remove to Make Valid Parentheses | #stack |
 ---
 ### Easy
