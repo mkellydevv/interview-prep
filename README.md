@@ -30,6 +30,7 @@
 | [1. Two Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1.%20Two%20Sum.js) | #aa #array #hashmap |
 | 7. Reverse Integer | #math |
 | 9. Palindrome Number | #math #string |
+| 13. Roman to Integer | #map #set |
 | [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/118.%20Pascal's%20Triangle.js) | #aa #array  |
 | 141. Linked List Cycle | #linkedlist #pointers |
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
@@ -66,6 +67,7 @@
 | 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
 | 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
 | 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) |
+| 20. | 13. Roman to Integer |
 
 # Notes
 
