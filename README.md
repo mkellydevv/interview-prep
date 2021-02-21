@@ -4,25 +4,25 @@
 | Problem | Tags |
 | --- | --- |
 | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) | #pointers |
-| 15. 3Sum | #array #hashmap #pointers #set #sort |
-| 46. Permutations | #aa #recursion |
-| 54. Spiral Matrix | #aa #array #matrix |
-| 71. Simplify Path | #stack |
-| 74. Search a 2D Matrix | #aa #array #binarysearch #matrix |
-| 138. Copy List with Random Pointer | #linkedlist |
-| 189. Rotate Array | #aa #array |
-| 199. Binary Tree Right Side View | #dfs #stack #tree |
-| 284. Peeking Iterator | #design |
-| 322. Coin Change | #aa #dp #memo #tab |
-| 413. Arithmetic Slices | #math |
-| 538. Convert BST to Greater Tree | #bst #stack |
-| 560. Subarray Sum Equals K | #array #hashmap |
-| 669. Trim a Binary Search Tree | #bst #tree |
-| 784. Letter Case Permutation | #bottomup |
-| 785. Is Graph Bipartite? | #bfs #graph #queue |
-| 912. Sort an Array | #sort |
+| [15. 3Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/15.%203Sum.js) | #array #hashmap #pointers #set #sort |
+| [46. Permutations](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/46.%20Permutations.js) | #aa #recursion |
+| [54. Spiral Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/54.%20Spiral%20Matrix.js) | #aa #array #matrix |
+| [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) | #stack |
+| [74. Search a 2D Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/74.%20Search%20a%202D%20Matrix.js) | #aa #array #binarysearch #matrix |
+| [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) | #linkedlist |
+| [189. Rotate Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/189.%20Rotate%20Array.js) | #aa #array |
+| [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) | #dfs #stack #tree |
+| [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | #design |
+| [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
+| [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) | #math |
+| [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
+| [560. Subarray Sum Equals K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/560.%20Subarray%20Sum%20Equals%20K.js) | #array #hashmap |
+| [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) | #bst #tree |
+| [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) | #bottomup |
+| [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
+| [912. Sort an Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/912.%20Sort%20an%20Array.js) | #sort |
 | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
-| 1249. Minimum Remove to Make Valid Parentheses | #stack |
+| [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | #stack |
 ---
 ### Easy
 | Problem | Tags |
@@ -48,24 +48,24 @@
 | # | Problem |
 | --- | --- |
 | 1. | 191. Number of 1 Bits |
-| 2. | 669. Trim a Binary Search Tree |
+| 2. | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) |
 | 3. | 141. Linked List Cycle |
 | 4. | 594. Longest Harmonious Subsequence |
-| 5. | 71. Simplify Path |
-| 6. | 199. Binary Tree Right Side View |
+| 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) |
+| 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) |
 | 7. | 821. Shortest Distance to a Character |
 | 8. | 284. Peeking Iterator |
-| 9. | 538. Convert BST to Greater Tree |
-| 10. | 138. Copy List with Random Pointer |
+| 9. | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) |
+| 10. | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) |
 | 11. | 242. Valid Anagram |
 | 12. | 1342. Number of Steps to Reduce a Number to Zero |
-| 13. | 1091. Shortest Path in Binary Matrix |
-| 14. | 785. Is Graph Bipartite? |
+| 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) |
+| 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) |
 | 15. | 1337. The K Weakest Rows in a Matrix |
-| 16. | 784. Letter Case Permutation |
+| 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
 | 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
-| 18. | 413. Arithmetic Slices |
-| 19. | 1249. Minimum Remove to Make Valid Parentheses |
+| 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
+| 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) |
 
 # Notes
 
