@@ -30,7 +30,7 @@
 | [1. Two Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1.%20Two%20Sum.js) | #aa #array #hashmap |
 | 7. Reverse Integer | #math |
 | 9. Palindrome Number | #math #string |
-| [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/118.%20Pascal's%20Triangle.js) | #aa #array  |
+| [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/118.%20Pascal's%20Triangle.js) | #aa #array  |
 | 141. Linked List Cycle | #linkedlist #pointers |
 | 167. Two Sum II - Input array is sorted | #array #binarysearch #pointers |
 | 191. Number of 1 Bits | #bitmanip |
