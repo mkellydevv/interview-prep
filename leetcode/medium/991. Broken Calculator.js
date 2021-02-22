@@ -6,20 +6,21 @@ function brokenCalc(num, tar) {
     const stack = [num];
     let step = 0;
     let count = 0;
-    while (num !== tar && count < 30) {
+    while (num !== tar && count < 10) {
         let curr = stack.pop();
+        console.log('curr', curr)
 
         if (curr === tar)
             return step;
-        else if (curr === null){
+        else if (curr === null) {
             step++;
             curr = stack.pop();
             stack.push(null);
         }
 
         if (!set.has(curr * 2)) {
-            set.add(curr*2);
-            stack.push(curr*2);
+            set.add(curr * 2);
+            stack.push(curr * 2);
         }
         if (!set.has(curr - 1)) {
             set.add(curr - 1);
