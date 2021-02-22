@@ -2,7 +2,7 @@
 // #medium #pointers
 // Time    : O(n)
 // Space   : O(1)
-// Runtime : 76ms,   beats 95.76%%
+// Runtime : 76ms,   beats 95.76%
 // Memory  : 41.1mb, beats 39.99%
 // The algorithm increments the index of the lesser of the left and right
 // values.  This ensures that you will check every possible greater value,

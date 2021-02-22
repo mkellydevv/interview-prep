@@ -21,6 +21,7 @@
 | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) | #bottomup |
 | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
 | [912. Sort an Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/912.%20Sort%20an%20Array.js) | #sort |
+| [991. Broken Calculator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/991.%20Broken%20Calculator.js) | #greedy |
 | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
 | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | #stack |
 ---
@@ -68,6 +69,7 @@
 | 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
 | 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) |
 | 20. | [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) |
+| 21. | [991. Broken Calculator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/991.%20Broken%20Calculator.js) |
 
 # Notes
 
