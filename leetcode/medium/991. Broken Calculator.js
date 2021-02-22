@@ -3,7 +3,7 @@ function brokenCalc(num, tar) {
         return num - tar;
 
     const set = new Set([num]);
-    const stack = [num];
+    const stack = [num, null];
     let step = 0;
     let count = 0;
     while (num !== tar && count < 10) {
@@ -27,7 +27,8 @@ function brokenCalc(num, tar) {
             stack.push(curr - 1);
         }
         count++;
-        console.log(stack)
+        console.log(stack, set)
+
     }
     console.log('step', step)
     return step;
