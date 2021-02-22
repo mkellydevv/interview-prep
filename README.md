@@ -15,6 +15,7 @@
 | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | #design |
 | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
 | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) | #math |
+| [524. Longest Word in Dictionary through Deleting](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.js) | #pointers |
 | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
 | [560. Subarray Sum Equals K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/560.%20Subarray%20Sum%20Equals%20K.js) | #array #hashmap |
 | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) | #bst #tree |
@@ -70,6 +71,7 @@
 | 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) |
 | 20. | [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) |
 | 21. | [991. Broken Calculator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/991.%20Broken%20Calculator.js) |
+| 22. | [524. Longest Word in Dictionary through Deleting](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.js) |
 
 # Notes
 
