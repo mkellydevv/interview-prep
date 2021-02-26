@@ -25,6 +25,7 @@
 | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
 | [856. Score of Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/856.%20Score%20of%20Parentheses.js) | #stack |
 | [912. Sort an Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/912.%20Sort%20an%20Array.js) | #sort |
+| [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) | #greedy #stack |
 | [991. Broken Calculator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/991.%20Broken%20Calculator.js) | #greedy |
 | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
 | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | #stack |
@@ -78,6 +79,7 @@
 | 23. | |
 | 24. | [856. Score of Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/856.%20Score%20of%20Parentheses.js) |
 | 25. | [581. Shortest Unsorted Continuous Subarray](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/581.%20Shortest%20Unsorted%20Continuous%20Subarray.js) |
+| 26. | [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) |
 
 # Notes
 
@@ -98,4 +100,8 @@ function getNth(num, i) {
 function triangle(num) {
     return (num ** 2 + num) / 2;
 }
+
+// Use Dynamic Programming (DP, Memoization, Tabulation) when
+// 1. There are overlapping subproblems
+// 2. An optimal substructure
 ```
