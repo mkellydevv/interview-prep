@@ -53,16 +53,17 @@
 | [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) | #hashtable #string |
 | [349. Intersection of Two Arrays](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/349.%20Intersection%20of%20Two%20Arrays.js) | #aa #array #binarysearch #set #sort |
 | [412. Fizz Buzz](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/412.%20Fizz%20Buzz.js) | #aa |
+| [575. Distribute Candies](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/575.%20Distribute%20Candies.js) | #set |
 | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) | #hashmap |
 | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) | #string |
 | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | #array #sort |
 | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | #bitmanip |
 | [1380. Lucky Numbers in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.js) | #aa #array #matrix |
 ---
-### February LeetCoding Challenge 2021
-| # | Problem |
-| --- | --- |
-| 1. | [191. Number of 1 Bits](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/191.%20Number%20of%201%20Bits.js) |
+### LeetCoding Challenge 2021
+| # | February | March |
+| --- | --- | --- |
+| 1. | [191. Number of 1 Bits](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/191.%20Number%20of%201%20Bits.js) | [575. Distribute Candies](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/575.%20Distribute%20Candies.js) |
 | 2. | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) |
 | 3. | [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) |
 | 4. | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) |
