@@ -1,5 +1,10 @@
 # Leetcode Problems
 
+### Hard
+| Problem | Tags |
+| --- | --- |
+| [895. Maximum Frequency Stack](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/hard/895.%20Maximum%20Frequency%20Stack.js) | #hashmap #stack |
+---
 ### Medium
 | Problem | Tags |
 | --- | --- |
@@ -84,7 +89,7 @@
 | 25. | [581. Shortest Unsorted Continuous Subarray](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/581.%20Shortest%20Unsorted%20Continuous%20Subarray.js) |
 | 26. | [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) |
 | 27. | [29. Divide Two Integers](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/29.%20Divide%20Two%20Integers.js) |
-| 28. | |
+| 28. | [895. Maximum Frequency Stack](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/hard/895.%20Maximum%20Frequency%20Stack.js) |
 
 # Notes
 
