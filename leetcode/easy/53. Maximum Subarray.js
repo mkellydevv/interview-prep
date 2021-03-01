@@ -2,11 +2,11 @@
 // #easy #array
 // Time    : O(n)
 // Space   : O(1)
-// Runtime : 68ms,   beats 97.46%
-// Memory  : 38.4mb, beats 73.05%
-// Generates each row of the pyramid by examining the row above it. The top and
-// edges are hardcoded to 1.  Each new el is calculated based on its up/left and
-// up neighbors.
+// Runtime : 76ms,   beats 96.24%
+// Memory  : 39.1mb, beats 65.96%
+// The algorithm keeps track of the largest subarray max at each given element
+// by determining if the element + its left neighbor is larger than itself. It
+// keeps track of the largest element seen as it iterates.
 
 function maxSubArray(nums) {
     let max = nums[0];
