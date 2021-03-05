@@ -19,6 +19,7 @@
 | [139. Word Break](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/139.%20Word%20Break.js) | #dp |
 | [189. Rotate Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/189.%20Rotate%20Array.js) | #aa #array |
 | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) | #dfs #stack #tree |
+| [207. Course Schedule]() | #aa #backtracking #dfs #map #set |
 | [240. Search a 2D Matrix II](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/240.%20Search%20a%202D%20Matrix%20II.js) | #array #matrix |
 | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | #design |
 | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
@@ -118,8 +119,8 @@ function triangle(num) {
 }
 
 // Least Common Multiple - The smallest number which can be divided by two given numbers.
-function lcm(num1, num2) {
-    return num1 * num2 / gcd(num1, num2);
+function lcm(a, b) {
+    return a * b / gcd(a, b);
 }
 
 // Greatest Common Divisor - The biggest number which can divide evenly into both the given numbers.
@@ -127,6 +128,13 @@ function gcd(a, b) {
     while (a % b > 0)
         [b, a] = [a % b, b];
     return b;
+}
+
+// Function - Returns count of numbers divisible by a, b, or c under a given n number.
+// n(AuBuC) = n(A) + n(B) + n(C) - n(A∩B) - n(A∩C) - n(B∩C) + n(A∩B∩C)
+function unionCountDivisible(n, a, b, c) {
+    const ab = lcm(a, b), bc = lcm(b, c), ac = lcm(a, c), abc = lcm(ab, c);
+    return Math.floor(n / a) + Math.floor(n / b) + Math.floor(n / c) - Math.floor(n / ab) - Math.floor(n / bc) - Math.floor(n / ac) + (Math.floor(n / abc));
 }
 
 // Use Dynamic Programming (DP, Memoization, Tabulation) when
