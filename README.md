@@ -35,6 +35,7 @@
 | [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) | #greedy #stack |
 | [991. Broken Calculator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/991.%20Broken%20Calculator.js) | #greedy |
 | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | #bfs #queue |
+| [1201. Ugly Number III](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1201.%20Ugly%20Number%20III.js) | #binarysearch #math |
 | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | #stack |
 ---
 ### Easy
@@ -99,21 +100,33 @@
 # Notes
 
 ```js
-// Get # of digits in a number:
+// Get # of digits in a number.
 function numDigits(num) {
     if (num === 0) return 1;
     return Math.floor(Math.log10(Math.abs(num))) + 1;
 }
 
-// Get ith digit from right in a number:
-function getNth(num, i) {
-    return Math.floor((num / Math.pow(10, i - 1)) % 10);
+// Get nth digit from right in a number.
+function getNth(num, n) {
+    return Math.floor((num / Math.pow(10, n - 1)) % 10);
 }
 
-// Triangle Number - Like factorial but with addition
+// Gauss Triangular Number - Like factorial but with addition instead of multiplication.
 // triangle(5) => 15 (5 + 4 + 3 + 2 + 1)
 function triangle(num) {
     return (num ** 2 + num) / 2;
+}
+
+// Least Common Multiple - The smallest number which can be divided by two given numbers.
+function lcm(num1, num2) {
+    return num1 * num2 / gcd(num1, num2);
+}
+
+// Greatest Common Divisor - The biggest number which can divide evenly into both the given numbers.
+function gcd(a, b) {
+    while (a % b > 0)
+        [b, a] = [a % b, b];
+    return b;
 }
 
 // Use Dynamic Programming (DP, Memoization, Tabulation) when
