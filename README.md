@@ -19,7 +19,7 @@
 | [139. Word Break](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/139.%20Word%20Break.js) | #dp |
 | [189. Rotate Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/189.%20Rotate%20Array.js) | #aa #array |
 | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) | #dfs #stack #tree |
-| [207. Course Schedule]() | #aa #backtracking #dfs #map #set |
+| [207. Course Schedule](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/207.%20Course%20Schedule.js) | #aa #backtracking #dfs #map #set |
 | [240. Search a 2D Matrix II](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/240.%20Search%20a%202D%20Matrix%20II.js) | #array #matrix |
 | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | #design |
 | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
@@ -60,6 +60,7 @@
 | [412. Fizz Buzz](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/412.%20Fizz%20Buzz.js) | #aa |
 | [575. Distribute Candies](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/575.%20Distribute%20Candies.js) | #set |
 | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) | #hashmap |
+| [637. Average of Levels in Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js) | #bfs #binarytree #queue |
 | [645. Set Mismatch](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/645.%20Set%20Mismatch.js) | #array #math #set |
 | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) | #string |
 | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | #array #sort |
@@ -73,7 +74,7 @@
 | 2. | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) | [645. Set Mismatch](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/645.%20Set%20Mismatch.js) |
 | 3. | [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) | [268. Missing Number](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/268.%20Missing%20Number.js) |
 | 4. | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) | [160. Intersection of Two Linked Lists](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/160.%20Intersection%20of%20Two%20Linked%20Lists.js) |
-| 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) |
+| 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) | [637. Average of Levels in Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js) |
 | 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) |
 | 7. | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) |
 | 8. | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) |
