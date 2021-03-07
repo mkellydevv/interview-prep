@@ -49,6 +49,7 @@
 | [9. Palindrome Number](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/9.%20Palindrom%20Number.js) | #math #string |
 | [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) | #map #set |
 | [53. Maximum Subarray](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/53.%20Maximum%20Subarray.js) | #array |
+| [108. Convert Sorted Array to Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js) | #aa #array #bst #sort |
 | [110. Balanced Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/110.%20Balanced%20Binary%20Tree.js) | #aa #binarytree #recursion #tree |
 | [118. Pascal's Triangle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/118.%20Pascal's%20Triangle.js) | #aa #array  |
 | [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) | #linkedlist #pointers |
