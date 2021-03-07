@@ -24,6 +24,7 @@
 | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | #design |
 | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
 | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) | #math |
+| [450. Delete Node in a BST](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/450.%20Delete%20Node%20in%20a%20BST.js) | #aa #bst |
 | [524. Longest Word in Dictionary through Deleting](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.js) | #pointers |
 | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
 | [560. Subarray Sum Equals K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/560.%20Subarray%20Sum%20Equals%20K.js) | #array #hashmap |
