@@ -1,4 +1,4 @@
-// 669. Trim a Binary Search Tree
+// 820. Short Encoding of Words
 // #medium #trie
 // Time    : O(sum w[i]) where w[i] is the length of words[i]
 // Space   : O(sum w[i])

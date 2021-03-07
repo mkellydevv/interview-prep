@@ -31,6 +31,7 @@
 | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) | #bst #tree |
 | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) | #bottomup |
 | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
+| [820. Short Encoding of Words](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/820.%20Short%20Encoding%20of%20Words.js) | #trie |
 | [856. Score of Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/856.%20Score%20of%20Parentheses.js) | #stack |
 | [912. Sort an Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/912.%20Sort%20an%20Array.js) | #sort |
 | [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) | #greedy #stack |
@@ -75,7 +76,7 @@
 | 3. | [141. Linked List Cycle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/141.%20Linked%20List%20Cycle.js) | [268. Missing Number](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/268.%20Missing%20Number.js) |
 | 4. | [594. Longest Harmonious Subsequence](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/594.%20Longest%20Harmonious%20Subsequence.js) | [160. Intersection of Two Linked Lists](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/160.%20Intersection%20of%20Two%20Linked%20Lists.js) |
 | 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) | [637. Average of Levels in Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js) |
-| 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) |
+| 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) | [820. Short Encoding of Words](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/820.%20Short%20Encoding%20of%20Words.js) |
 | 7. | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) |
 | 8. | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) |
 | 9. | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) |
