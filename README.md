@@ -9,12 +9,14 @@
 | Problem | Tags |
 | --- | --- |
 | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) | #pointers |
+| [12. Integer to Roman]() | #map #math |
 | [15. 3Sum](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/15.%203Sum.js) | #array #hashmap #pointers #set #sort |
 | [29. Divide Two Integers](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/29.%20Divide%20Two%20Integers.js) | #bitmanip |
 | [46. Permutations](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/46.%20Permutations.js) | #aa #recursion |
 | [54. Spiral Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/54.%20Spiral%20Matrix.js) | #aa #array #matrix |
 | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) | #stack |
 | [74. Search a 2D Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/74.%20Search%20a%202D%20Matrix.js) | #aa #array #binarysearch #matrix |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js) | #aa #binarytree |
 | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) | #linkedlist |
 | [139. Word Break](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/139.%20Word%20Break.js) | #dp |
 | [189. Rotate Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/189.%20Rotate%20Array.js) | #aa #array |
@@ -29,6 +31,7 @@
 | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
 | [560. Subarray Sum Equals K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/560.%20Subarray%20Sum%20Equals%20K.js) | #array #hashmap |
 | [581. Shortest Unsorted Continuous Subarray](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/581.%20Shortest%20Unsorted%20Continuous%20Subarray.js) | #array |
+| [623. Add One Row to Tree]() | #binarytree |
 | [669. Trim a Binary Search Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/669.%20Trim%20a%20Binary%20Search%20Tree.js) | #bst #tree |
 | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) | #bottomup |
 | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
@@ -66,6 +69,7 @@
 | [637. Average of Levels in Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js) | #bfs #binarytree #queue |
 | [645. Set Mismatch](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/645.%20Set%20Mismatch.js) | #array #math #set |
 | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) | #string |
+| [1332. Remove Palindromic Subsequences]() | #string |
 | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | #array #sort |
 | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | #bitmanip |
 | [1380. Lucky Numbers in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.js) | #aa #array #matrix |
@@ -80,9 +84,9 @@
 | 5. | [71. Simplify Path](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/71.%20Simplify%20Path.js) | [637. Average of Levels in Binary Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js) |
 | 6. | [199. Binary Tree Right Side View](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/199.%20Binary%20Tree%20Right%20Side%20View.js) | [820. Short Encoding of Words](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/820.%20Short%20Encoding%20of%20Words.js) |
 | 7. | [821. Shortest Distance to a Character](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/821.%20Shortest%20Distance%20to%20a%20Character.js) |
-| 8. | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) |
-| 9. | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) |
-| 10. | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) |
+| 8. | [284. Peeking Iterator](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/284.%20Peeking%20Iterator.js) | [1332. Remove Palindromic Subsequences]() |
+| 9. | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | [623. Add One Row to Tree]() |
+| 10. | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) | [12. Integer to Roman]() |
 | 11. | [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) |
 | 12. | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) |
 | 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) |
