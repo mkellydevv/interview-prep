@@ -1,5 +1,5 @@
 // 823. Binary Trees With Factors
-// #medium #dp #map
+// #medium #binarytree #dp #map
 // Time    : O(n^2)
 // Space   : O(n)
 // Runtime : 116ms,  beats 100.00%

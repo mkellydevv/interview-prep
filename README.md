@@ -36,6 +36,7 @@
 | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) | #bottomup |
 | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | #bfs #graph #queue |
 | [820. Short Encoding of Words](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/820.%20Short%20Encoding%20of%20Words.js) | #trie |
+| [823. Binary Trees With Factors](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/823.%20Binary%20Trees%20With%20Factors.js) | #binarytree #dp #map |
 | [856. Score of Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/856.%20Score%20of%20Parentheses.js) | #stack |
 | [912. Sort an Array](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/912.%20Sort%20an%20Array.js) | #sort |
 | [946. Validate Stack Sequences](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/946.%20Validate%20Stack%20Sequences.js) | #greedy #stack |
@@ -91,7 +92,7 @@
 | 10. | [138. Copy List with Random Pointer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/138.%20Copy%20List%20with%20Random%20Pointer.js) | [12. Integer to Roman](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/12.%20Integer%20to%20Roman.js) |
 | 11. | [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) |
 | 12. | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.js) |
-| 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) |
+| 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | [823. Binary Trees With Factors](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/823.%20Binary%20Trees%20With%20Factors.js) |
 | 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | [1721. Swapping Nodes in a Linked List](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js) |
 | 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) |
 | 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
