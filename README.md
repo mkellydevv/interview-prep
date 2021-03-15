@@ -44,6 +44,7 @@
 | [1201. Ugly Number III](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1201.%20Ugly%20Number%20III.js) | #binarysearch #math |
 | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | #stack |
 | [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.js) | #string |
+| [1721. Swapping Nodes in a Linked List](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js) | #linkedlist |
 ---
 ### Easy
 | Problem | Tags |
@@ -91,7 +92,7 @@
 | 11. | [242. Valid Anagram](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/242.%20Valid%20Anagram.js) | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) |
 | 12. | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.js) |
 | 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) |
-| 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) |
+| 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | [1721. Swapping Nodes in a Linked List](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js) |
 | 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) |
 | 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
 | 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
