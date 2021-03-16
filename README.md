@@ -28,6 +28,7 @@
 | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) | #math |
 | [450. Delete Node in a BST](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/450.%20Delete%20Node%20in%20a%20BST.js) | #aa #bst |
 | [524. Longest Word in Dictionary through Deleting](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.js) | #pointers |
+| [535. Encode and Decode TinyURL](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/535.%20Encode%20and%20Decode%20TinyURL.js) | #design #map #math |
 | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
 | [560. Subarray Sum Equals K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/560.%20Subarray%20Sum%20Equals%20K.js) | #array #hashmap |
 | [581. Shortest Unsorted Continuous Subarray](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/581.%20Shortest%20Unsorted%20Continuous%20Subarray.js) | #array |
@@ -94,7 +95,7 @@
 | 12. | [1342. Number of Steps to Reduce a Number to Zero](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.js) |
 | 13. | [1091. Shortest Path in Binary Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js) | [823. Binary Trees With Factors](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/823.%20Binary%20Trees%20With%20Factors.js) |
 | 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | [1721. Swapping Nodes in a Linked List](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js) |
-| 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) |
+| 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | [535. Encode and Decode TinyURL](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/535.%20Encode%20and%20Decode%20TinyURL.js) |
 | 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
 | 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
 | 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
