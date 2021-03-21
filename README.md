@@ -27,6 +27,7 @@
 | [322. Coin Change](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/322.%20Coin%20Change.js) | #aa #dp #memo #tab |
 | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) | #math |
 | [450. Delete Node in a BST](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/450.%20Delete%20Node%20in%20a%20BST.js) | #aa #bst |
+| [478. Generate Random Point in a Circle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/478.%20Generate%20Random%20Point%20in%20a%20Circle.js) | #math |
 | [524. Longest Word in Dictionary through Deleting](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.js) | #pointers |
 | [535. Encode and Decode TinyURL](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/535.%20Encode%20and%20Decode%20TinyURL.js) | #design #map #math |
 | [538. Convert BST to Greater Tree](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/538.%20Convert%20BST%20to%20Greater%20Tree.js) | #bst #stack |
@@ -98,7 +99,7 @@
 | 14. | [785. Is Graph Bipartite?](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/785.%20Is%20Graph%20Bipartite%3F.js) | [1721. Swapping Nodes in a Linked List](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js) |
 | 15. | [1337. The K Weakest Rows in a Matrix](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.js) | [535. Encode and Decode TinyURL](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/535.%20Encode%20and%20Decode%20TinyURL.js) |
 | 16. | [784. Letter Case Permutation](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/784.%20Letter%20Case%20Permutation.js) |
-| 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) |
+| 17. | [11. Container With Most Water](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/11.%20Container%20With%20Most%20Water.js) | [478. Generate Random Point in a Circle](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/478.%20Generate%20Random%20Point%20in%20a%20Circle.js) |
 | 18. | [413. Arithmetic Slices](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/413.%20Arithmetic%20Slices.js) |
 | 19. | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js) | [841. Keys and Rooms](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/medium/841.%20Keys%20and%20Rooms.js) |
 | 20. | [13. Roman to Integer](https://github.com/mkellydevv/interview-prep/blob/master/leetcode/easy/13.%20Roman%20to%20Integer.js) |
